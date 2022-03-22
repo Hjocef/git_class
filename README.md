@@ -5,4 +5,4 @@ This is a repository to intorduce the basics of git
 2. Clonings
 3. pus
 4. pull
-5. 
+5. forking
